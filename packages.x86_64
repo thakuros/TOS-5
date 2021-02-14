@@ -105,23 +105,37 @@ xfsprogs
 xl2tpd
 zsh
 
-#TOS
+#Thakur OS KDE Plasma desktop Packages
 plasma-meta
 packagekit-qt5
+bash-completion
+networkmanager
+sddm
+
+#System Utilities
 konsole
 dolphin
 dolphin-plugins
-#gwenview
-#kcalc
 kate
-#okular
 xdg-user-dirs
-#discover
-sddm
-bash-completion
-networkmanager
+gwenview
+kcalc
+okular
+discover
 
-#Installer
+#Browser
+firefox
+
+#installer
 calamares
-TOS-calamares-config
 grub
+TOS-calamares-config
+
+#theme
+qogir-gtk-theme
+gtk3
+gtk-engines
+gtk-engine-murrine
+
+#icon
+tela-circle-icon

@@ -1,0 +1,21 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[FileDialogSize]
+eDP-1 HDMI-1 Height 900=600
+eDP-1 HDMI-1 Width 1600=884
+
+[GuiConfig]
+captureMode=5
+cropRegion=91,74,781,420
+onClickChecked=true
+window-position=328,116
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_20210121_002718.png,file:$HOME/Pictures/autologin.png,file:$HOME/Pictures/carli9-fail.png,file:$HOME/Pictures/carli9.png,file:$HOME/Pictures/loading linux linux.png,file:$HOME/Pictures/calamares-updated.png,file:$HOME/Pictures/hrishikesh-splash.png,file:$HOME/Pictures/calamares-running.png,file:$HOME/Pictures/new splash.png,file:$HOME/Pictures/thakuros-repo.png,file:$HOME/Pictures/calamares-pkgbuild.png,file:$HOME/Pictures/welcome-to-thakuros.png,file:$HOME/Pictures/mam.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/demonkiller/Pictures/autologin.png
+lastSaveLocation=file:///home/demonkiller/Pictures/autologin.png

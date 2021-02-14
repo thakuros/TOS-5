@@ -1,0 +1,18 @@
+00:00:01.876910 VirtualBox GUI VM Selector Window 6.1.16 r140961 linux.amd64 (Oct 15 2020 16:36:54) release log
+00:00:01.876912 Log opened 2021-02-13T18:21:22.692226000Z
+00:00:01.876912 Build Type: release
+00:00:01.876916 OS Product: Linux
+00:00:01.876917 OS Release: 5.10.12-arch1-1
+00:00:01.876918 OS Version: #1 SMP PREEMPT Sun, 31 Jan 2021 00:41:06 +0000
+00:00:01.876943 DMI Product Name: Vostro 3478
+00:00:01.876949 DMI Product Version: 
+00:00:01.876956 Firmware type: UEFI
+00:00:01.877767 Secure Boot: Disabled
+00:00:01.877807 Host RAM: 7819MB (7.6GB) total, 6706MB (6.5GB) available
+00:00:01.877811 Executable: /opt/VirtualBox/VirtualBox
+00:00:01.877812 Process ID: 17914
+00:00:01.877812 Package type: LINUX_64BITS_GENERIC
+00:00:01.877850 Qt version: 5.6.1
+00:00:02.032336 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.854734 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.864526 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1366x722

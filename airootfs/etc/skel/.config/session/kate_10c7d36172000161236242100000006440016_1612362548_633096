@@ -1,0 +1,165 @@
+[1]
+Active ViewSpace=0
+Kate-MDI-H-Splitter=200,1568,200
+Kate-MDI-Sidebar-0-Splitter=0,0,0
+Kate-MDI-Sidebar-1-Splitter=
+Kate-MDI-Sidebar-2-Splitter=
+Kate-MDI-Sidebar-3-Splitter=0,0,0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Sidebar-Position=2
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Sidebar-Position=2
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Visible=false
+Kate-MDI-ToolView-kateproject-Persistent=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Sidebar-Position=1
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Persistent=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-V-Splitter=150,809,201
+State=AAAA/wAAAAD9AAAAAAAABkAAAANJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1 Window-Maximized 1600x900=true
+eDP-1 HDMI-1 XPosition=1366
+eDP-1 HDMI-1 YPosition=29
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1568
+
+[1-ViewSpace 0]
+Active View=file:///home/demonkiller/Files/Projects/Carli/carli-5/packages.x86_64
+Count=1
+Documents=file:///home/demonkiller/Files/Projects/Carli/carli-5/packages.x86_64
+View 0=file:///home/demonkiller/Files/Projects/Carli/carli-5/packages.x86_64
+
+[1-ViewSpace 0 file:///home/demonkiller/Files/Projects/Carli/carli-5/packages.x86_64]
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/demonkiller/Files/Projects/Carli/carli-5/packages.x86_64
+
+[General]
+Last Session=
+
+[Kate Plugins]
+cuttlefishplugin=false
+externaltoolsplugin=true
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=false
+katectagsplugin=false
+katefilebrowserplugin=true
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=true
+kateopenheaderplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+ktexteditorpreviewplugin=false
+lspclientplugin=false
+tabswitcherplugin=true
+textfilterplugin=true
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=1
+
+[Plugin:katefilebrowserplugin:MainWindow:0]
+Allow Expansion=false
+Decoration position=2
+Show Inline Previews=true
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+View Style=DetailTree
+auto sync folder=false
+filter history=
+location=file:///home/demonkiller
+
+[Plugin:katesearchplugin:MainWindow:0]
+BinaryFiles=false
+CurrentExcludeFilter=0
+CurrentFilter=0
+ExcludeFilters=\\0
+ExpandSearchResults=false
+Filters=\\0
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Replaces=Thakur OS
+Search=Arch Linux
+SearchDiskFiles=
+SearchDiskFiless=\\0
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/Files/Projects/ThakurOS/TOS-4/airootfs/etc/passwd
+File10[$e]=$HOME/Files/Projects/Carli/carli-5/packages.x86_64
+File2[$e]=$HOME/Files/Projects/ThakurOS/TOS-3/airootfs/root/customize_airootfs.sh
+File3[$e]=$HOME/Files/Projects/ArchLinuxGUI/ALG-1/pacman.conf
+File4[$e]=$HOME/Files/Projects/ArchLinuxGUI/ALG-1/packages.x86_64
+File5[$e]=$HOME/Files/Projects/ThakurOS/TOS-5/pacman.conf
+File6[$e]=$HOME/Files/Projects/ThakurOS/TOS-5/airootfs/root/customize_airootfs.sh
+File7[$e]=$HOME/Files/Projects/ArchLinuxGUI/ALG-1/profiledef.sh
+File8[$e]=$HOME/Files/Projects/ThakurOS/TOS-5/packages.x86_64
+File9[$e]=$HOME/Files/Projects/ThakurOS/TOS-calamares-config/etc/calamares/settings.conf
+Name1[$e]=passwd
+Name10[$e]=packages.x86_64
+Name2[$e]=customize_airootfs.sh
+Name3[$e]=pacman.conf
+Name4[$e]=packages.x86_64
+Name5[$e]=pacman.conf
+Name6[$e]=customize_airootfs.sh
+Name7[$e]=profiledef.sh
+Name8[$e]=packages.x86_64
+Name9[$e]=settings.conf
+
+[WindowProperties1]
+ClassName=KateMainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABkAAAANJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1 Window-Maximized 1600x900=true
+eDP-1 HDMI-1 XPosition=1366
+eDP-1 HDMI-1 YPosition=29

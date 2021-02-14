@@ -1,0 +1,46 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[KFileDialog Settings]
+Recent Files[$e]=slide1.png,file:$HOME/Downloads/slide1.png
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1 Height 768=448
+eDP-1 HDMI-1 Height 900=448
+eDP-1 HDMI-1 Width 1366=902
+eDP-1 HDMI-1 Width 1600=902
+eDP-1 HDMI-1 XPosition=252
+eDP-1 HDMI-1 YPosition=101
+eDP-1 Height 768=480
+eDP-1 Width 1366=772
+eDP-1 Window-Maximized 1366x768=true
+eDP-1 XPosition=0
+eDP-1 YPosition=29
+
+[Recent Files]
+File1[$e]=$HOME/Files/Projects/ThakurOS/TOS-calamares-config/etc/calamares/branding/default/slide4.png
+File2[$e]=$HOME/Files/Projects/ThakurOS/TOS-calamares-config/etc/calamares/branding/default/squid.png
+File3[$e]=$HOME/Files/Projects/ThakurOS/TOS-1/syslinux/splash.png
+File4[$e]=$HOME/Files/Projects/ThakurOS/TOS-2/syslinux/splash.png
+File5[$e]=$HOME/Files/Projects/ThakurOS/TOS-3/syslinux/splash.png
+File6[$e]=/run/media/demonkiller/STRON8/Thakuros.png
+File7[$e]=/run/media/demonkiller/STRON8/TOSsplash4.jpg
+File8[$e]=$HOME/Files/Projects/ThakurOS/TOS-4/syslinux/splash.png
+File9[$e]=$HOME/Files/Projects/ThakurOS/TOS-calamares-config/etc/calamares/branding/default/slide1.png
+Name1[$e]=slide4.png
+Name2[$e]=squid.png
+Name3[$e]=splash.png
+Name4[$e]=splash.png
+Name5[$e]=splash.png
+Name6[$e]=Thakuros.png
+Name7[$e]=TOSsplash4.jpg
+Name8[$e]=splash.png
+Name9[$e]=slide1.png
+
+[SideBar]
+SideBarSplitterSizes=248,1113
