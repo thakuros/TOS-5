@@ -1,7 +1,7 @@
 # TOS-5
 
 ThakurOS version 0.5
-Notes: (vx.4) - ThakurOS Desktop
+Notes: (vx.5) - ThakurOS Desktop
 
 Project restarted with following new method of building ISO
 
