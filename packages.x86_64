@@ -105,18 +105,16 @@ xfsprogs
 xl2tpd
 zsh
 
-#Thakur OS KDE Plasma desktop Packages
-plasma-meta
-packagekit-qt5
+#Thakur OS GNOME Packages
+gnome
+gdm
 bash-completion
 networkmanager
-sddm
+
 
 #System Utilities
-konsole
-dolphin
-dolphin-plugins
-kate
+gnome-terminal
+gedit
 xdg-user-dirs
 #gwenview
 #kcalc
@@ -132,10 +130,10 @@ grub
 TOS-calamares-config
 
 #theme
-qogir-gtk-theme
-gtk3
-gtk-engines
-gtk-engine-murrine
+#qogir-gtk-theme
+#gtk3
+#gtk-engines
+#gtk-engine-murrine
 
 #icon
-tela-circle-icon
+#tela-circle-icon
