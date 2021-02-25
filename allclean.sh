@@ -1,4 +1,4 @@
-echo "Removing all workfiles from Directory...."
+echo "Removing all Releng from Directory...."
 echo "Ignoring WorkFlow Files ......"
 echo "                                         "
 
