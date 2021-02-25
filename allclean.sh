@@ -2,7 +2,7 @@ echo "Removing all Releng from Directory...."
 echo "Ignoring WorkFlow Files ......"
 echo "                                         "
 
-rm -rvf airoofs/
+rm -rvf airootfs/
 echo "                                         "
 echo "removed airootfs, now removing efiboot.. "
 rm -rvf efiboot/
