@@ -104,3 +104,26 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+
+#TOS KDE Plasma
+plasma
+sddm
+bash-completion
+networkmanager
+
+konsole
+kate
+dolphin
+dolphin-plugins
+xdg-user-dirs
+#gwenview
+#kcalc
+#okular
+#discover
+#packagekit-qt5
+
+#Installer
+calamares
+TOS-calamares-config
+grub
