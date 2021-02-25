@@ -1,5 +1,0 @@
-2021/01/23-14:13:04.912 59b Reusing MANIFEST /home/demonkiller/.config/google-chrome/Default/IndexedDB/https_264fdee2220f3346956f983cabaa4b10.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/23-14:13:28.156 59b Level-0 table #5: started
-2021/01/23-14:13:28.209 59b Level-0 table #5: 439 bytes OK
-2021/01/23-14:13:28.243 59b Delete type=0 #3
-2021/01/23-14:13:28.243 59b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

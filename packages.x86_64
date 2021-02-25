@@ -118,13 +118,13 @@ dolphin
 dolphin-plugins
 kate
 xdg-user-dirs
-gwenview
-kcalc
-okular
-discover
+#gwenview
+#kcalc
+#okular
+#discover
 
 #Browser
-firefox
+#firefox
 
 #installer
 calamares
