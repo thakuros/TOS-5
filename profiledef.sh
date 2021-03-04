@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="thakuros"
-iso_label="thakur_$(date +%Y%m)"
+iso_label="thakuros_$(date +%Y%m)"
 iso_publisher="Thakur OS <http://www.thakuros.org>"
 iso_application="Thakur OS Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
@@ -12,8 +12,7 @@ arch="x86_64"
 pacman_conf="pacman.conf"
 airootfs_image_tool_options=('-comp' 'xz' '-Xbcj' 'x86' '-b' '1M' '-Xdict-size' '1M')
 file_permissions=(
-  ["/etc/shadow"]="0:0:0400"
-  ["/etc/gshadow"]="0:0:0400"
+  ["/etc/shadow"]="0:0:400"
   ["/root"]="0:0:750"
   ["/root/.automated_script.sh"]="0:0:755"
   ["/usr/local/bin/choose-mirror"]="0:0:755"

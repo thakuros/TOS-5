@@ -105,25 +105,22 @@ xfsprogs
 xl2tpd
 zsh
 
-
 #TOS KDE Plasma
 plasma
+xorg
 sddm
 bash-completion
 networkmanager
 
+#System Tools
 konsole
 kate
 dolphin
 dolphin-plugins
 xdg-user-dirs
-#gwenview
-#kcalc
-#okular
-#discover
-#packagekit-qt5
+spectacle
 
 #Installer
+grub
 calamares
 TOS-calamares-config
-grub
