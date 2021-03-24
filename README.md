@@ -1,7 +1,7 @@
 # TOS-5
 
 <b>ThakurOS</b> version 0.5
-Notes: (vx.5) - ThakurOS with GNOME (DE) & i3WM + target cleanup
+Notes: (vx.5) - ThakurOS with our custom KDE desktop
 
 Project restarted with following new method of building ISO
 
